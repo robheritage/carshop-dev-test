@@ -20,4 +20,20 @@ We would like you to create a car search single-page-application (surprise surpr
 
 ## Vehicle API
 
-In short, there isn't one! We will leave this up to you, however we are more interested in how you code the application then the API so we suggest the simplest method. At CarShop we often use [JSON Server](https://github.com/typicode/json-server) for simple mock API's in order to rapid prototype, we suggest doing the same for this exercise.
+In short, there isn't one! We will leave this up to you, however we are more interested in how you code the application then the API so we suggest the simplest method. At CarShop we often use [JSON Server](https://github.com/typicode/json-server) for simple mock API's in order to rapid prototype, we suggest doing the same for this exercise. We have provided some [sample vehicle JSON](https://github.com/robheritage/carshop-dev-test/blob/master/db.json) for you to use if you wish.
+
+## UI/UX
+
+At CarShop we take pride that we have created an award winning website with focus on UX. Your UI should reflect the same principles. Try creating something simple, user friendly and eye appealing. Feel free to use any UI resources you’d like to achieve that. For example you could use Twitter Bootstrap, or any other UI library. However we suggest using these as a base as we would prefer most CSS to be your own.
+
+## Architecture
+
+Here there is no limitation. Design your application anyway you want. Focus on clean, reusable code. Focus on frontend best practices. Show us that you know how to produce high quality modern web applications.
+
+## Libraries/Frameworks
+
+You can use any libraries you think are best but we would love to see your skills with React JS.
+
+## Backend
+
+No backend required (unless you're feeling ambitious with the API, but the role is purely front-end focused so that is all you will be judged on).
