@@ -37,3 +37,7 @@ You can use any libraries you think are best but we would love to see your skill
 ## Backend
 
 No backend required (unless you're feeling ambitious with the API, but the role is purely front-end focused so that is all you will be judged on).
+
+## Send us your code!
+
+Once you have completed your code, simply send us a link to your GitHub repo or just a zip file is fine. Don't forget the readme!
