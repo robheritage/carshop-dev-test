@@ -20,4 +20,4 @@ We would like you to create a car search single-page-application (surprise surpr
 
 ## Vehicle API
 
-In short, there isn't one! We will leave this up to you, however we are more interested in how you code the application than  At CarShop we often use [JSON Server](https://github.com/typicode/json-server) for simple mock API's in order to rapid prototype, we suggest doing the same for this exercise.
+In short, there isn't one! We will leave this up to you, however we are more interested in how you code the application then the API so we suggest the simplest method. At CarShop we often use [JSON Server](https://github.com/typicode/json-server) for simple mock API's in order to rapid prototype, we suggest doing the same for this exercise.
